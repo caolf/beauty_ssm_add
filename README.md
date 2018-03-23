@@ -1,0 +1,2 @@
+# beauty_ssm_add
+基于beauty_ssm项目开发一些实际场景
